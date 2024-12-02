@@ -106,7 +106,7 @@ Key dependencies include:
 
 ## ✨ Contributors
 
-- **Your Name**: Research and implementation.
+- **Morteza Mahdiani**, **Zahra Mansouri**, **Yue Zhang**: Research and implementation.
 - Contributions are welcome! Feel free to submit a pull request.
 
 ---
