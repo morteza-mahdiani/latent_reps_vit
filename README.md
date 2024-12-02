@@ -51,7 +51,7 @@ The following ViT variants are included in the study:
 
 ### 1. Few-Shot Learning
 - Achieved 87% accuracy for the best-performing layer combination.
-- Detailed results can be found in the [`outputs/`](outputs/) directory.
+- Detailed results can be found in the [`results/`](results/) directory.
 
 ### 2. Representational Similarity
 - Visualizations of RSMs are available in the [`plots/`](./plots/) directory.
