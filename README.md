@@ -50,14 +50,11 @@ The following ViT variants are included in the study:
 ## 📊 Results
 
 ### 1. Few-Shot Learning
-- Achieved [X]% accuracy for the best-performing layer combination.
+- Achieved 87% accuracy for the best-performing layer combination.
 - Detailed results can be found in the [`results/`](./results/) directory.
 
 ### 2. Representational Similarity
 - Visualizations of RSMs are available in the [`plots/`](./plots/) directory.
-- Key insights:
-  - Layers [A] and [B] exhibit high similarity across [models].
-  - Early layers tend to focus on [patterns], while deeper layers encode [features].
 
 ---
 
