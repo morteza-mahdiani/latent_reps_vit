@@ -1,0 +1,46 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# files
+.idea/
+data/
+activation_rdm.ipynb
+activations_dino.npy
+best_layers.py
+few_shot_learning_performance.png
+few_shot_results.npy
+image_names.npy
+labels.npy
+layer_combinations_results.json
+main.py
+top_layers.json
+tsne_plots.png
+vit_beit
+vit_beit.py
+vit_beit_concatenated
+whole_models_layers_few_shot.py
