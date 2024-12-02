@@ -51,33 +51,13 @@ The following ViT variants are included in the study:
 
 ### 1. Few-Shot Learning
 - Achieved [X]% accuracy for the best-performing layer combination.
-- Detailed results can be found in the [`results/accuracy_analysis`](./results/accuracy_analysis) directory.
+- Detailed results can be found in the [`results/`](./results/) directory.
 
 ### 2. Representational Similarity
-- Visualizations of RSMs are available in the [`results/rsm_analysis`](./results/rsm_analysis) directory.
+- Visualizations of RSMs are available in the [`plots/`](./plots/) directory.
 - Key insights:
   - Layers [A] and [B] exhibit high similarity across [models].
   - Early layers tend to focus on [patterns], while deeper layers encode [features].
-
----
-
-## 📁 Repository Structure
-
-```plaintext
-.
-├── data/                      # Shape-based dataset
-├── models/                    # Pretrained ViT models
-├── src/                       # Scripts for analysis
-│   ├── few_shot_learning.py   # Few-shot learning evaluation
-│   ├── rsm_analysis.py        # Representational similarity analysis
-│   └── utils/                 # Helper functions
-├── results/                   # Results and visualizations
-│   ├── accuracy_analysis/     # Few-shot learning results
-│   ├── rsm_analysis/          # RSM plots and metrics
-│   └── combined/              # Combined insights
-├── README.md                  # Project description
-└── requirements.txt           # Python dependencies
-```
 
 ---
 
